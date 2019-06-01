@@ -5,8 +5,10 @@
     <title></title>
   </head>
   <body>
-    <h1>Sites Folder</h1>
-    <p><?php phpinfo(); ?></p>
-    <p><?php echo $_SERVER['HTTP_USER_AGENT']; ?></p>
+    <h1>
+      <?php
+        echo "Hello World"; 
+      ?>
+    </h1>
   </body>
 </html>
