@@ -6,7 +6,7 @@
   </head>
   <body>
     <h1>Panagrams</h1>
-    <h3>What is a Panagram</h3>
+    <h3>What is a Pangram?</h3>
     <p>A pangram sentence is a sentence using every letter of a given alphabet at least once. An example of this is "The quick brown fox jumped over the lazy dog"</p>
 
     <h3>Interesting Fact:</h3>
