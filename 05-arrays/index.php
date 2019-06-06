@@ -9,7 +9,7 @@
     <p>Choose a number between 1 &dash; 5</p>
     <form method="GET">
         <input type="text" name="pos">
-        <button type="submit" name="button">Submit</button>
+        <button type="submit">Submit</button>
     </form>
 
     <p>
