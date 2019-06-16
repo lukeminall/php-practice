@@ -56,7 +56,7 @@
                   $output = $num1 / $num2;
                   break;
                 default:
-                  $output = 0;
+                  $output = "Please Select an Operator";
                   break;
               }
 
