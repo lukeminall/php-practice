@@ -5,6 +5,7 @@
     <title>User Defined Functions</title>
   </head>
   <body>
+
     <h1>VAT Calculator:</h1>
     <form method="GET">
       <label for="cost">Item Before Tax:</label>
